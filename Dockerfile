@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/pause:3.2 
+FROM gcr.io/google-containers/pause-amd64:3.0
 MAINTAINER Danny.Zhang 
